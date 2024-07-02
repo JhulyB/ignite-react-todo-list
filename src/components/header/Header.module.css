@@ -1,0 +1,10 @@
+.header{
+    background-color: var(--gray-700);
+}
+
+.header img{
+    padding-top: 4.5rem;
+    padding-bottom: 5rem;
+    margin: 0 auto;
+    display: block;
+}
